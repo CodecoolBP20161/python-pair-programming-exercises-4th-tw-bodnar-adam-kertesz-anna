@@ -4,13 +4,11 @@ from person import Person
 
 
 def open_csv(file_name):
-    # implent this function
-    pass  # delete this
+    csv_file = open('file_name', 'rb')
 
 
 def get_csv_file_name(argv_list):
-    # implent this function
-    pass  # delete this
+    
 
 
 def format_output(person):
